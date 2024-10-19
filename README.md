@@ -25,3 +25,5 @@ Este projeto é um script em Python que permite monitorar o espaço em disco de 
 2. Instale a biblioteca `requests`:
    ```bash
    pip install requests
+
+   [Documentação no Blog](https://www.jaccon.com.br/monitorando-espaco-em-disco-em-servidores-linux/)
